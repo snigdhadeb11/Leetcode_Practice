@@ -50,4 +50,20 @@
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3678-design-task-manager) |
+## Linked List
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/1484-linked-list-in-binary-tree) |
+## Tree
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/1484-linked-list-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/1484-linked-list-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/1484-linked-list-in-binary-tree) |
 <!---LeetCode Topics End-->
