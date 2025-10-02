@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3336-water-bottles-ii](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3336-water-bottles-ii) |
 ## Stack
 |  |
 | ------- |
@@ -66,4 +67,8 @@
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/1484-linked-list-in-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [3336-water-bottles-ii](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3336-water-bottles-ii) |
 <!---LeetCode Topics End-->
