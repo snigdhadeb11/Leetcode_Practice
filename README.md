@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1612-avoid-flood-in-the-city](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/1612-avoid-flood-in-the-city) |
 | [2429-design-a-food-rating-system](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/0407-trapping-rain-water-ii) |
+| [1612-avoid-flood-in-the-city](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/1612-avoid-flood-in-the-city) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/2429-design-a-food-rating-system) |
 ## Math
@@ -46,6 +48,7 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/0407-trapping-rain-water-ii) |
+| [1612-avoid-flood-in-the-city](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/1612-avoid-flood-in-the-city) |
 | [2429-design-a-food-rating-system](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3678-design-task-manager) |
 ## Ordered Set
@@ -81,4 +84,12 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/0407-trapping-rain-water-ii) |
+## Binary Search
+|  |
+| ------- |
+| [1612-avoid-flood-in-the-city](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/1612-avoid-flood-in-the-city) |
+## Greedy
+|  |
+| ------- |
+| [1612-avoid-flood-in-the-city](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/1612-avoid-flood-in-the-city) |
 <!---LeetCode Topics End-->
