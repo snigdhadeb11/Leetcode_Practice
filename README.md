@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2429-design-a-food-rating-system](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/2429-design-a-food-rating-system) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
@@ -24,6 +25,7 @@
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/0407-trapping-rain-water-ii) |
 | [1612-avoid-flood-in-the-city](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/1612-avoid-flood-in-the-city) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/2429-design-a-food-rating-system) |
@@ -77,6 +79,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3336-water-bottles-ii](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3336-water-bottles-ii) |
 ## Breadth-First Search
 |  |
