@@ -7,6 +7,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1612-avoid-flood-in-the-city](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/1612-avoid-flood-in-the-city) |
 | [2429-design-a-food-rating-system](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/2429-design-a-food-rating-system) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3678-design-task-manager](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -29,6 +30,7 @@
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/2429-design-a-food-rating-system) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Math
 |  |
@@ -64,6 +66,7 @@
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/1484-linked-list-in-binary-tree) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
 |  |
 | ------- |
