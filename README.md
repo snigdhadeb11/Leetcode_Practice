@@ -8,6 +8,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/1612-avoid-flood-in-the-city) |
 | [2429-design-a-food-rating-system](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/2429-design-a-food-rating-system) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -31,6 +32,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/2429-design-a-food-rating-system) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Math
 |  |
@@ -56,6 +58,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/0407-trapping-rain-water-ii) |
 | [1612-avoid-flood-in-the-city](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/1612-avoid-flood-in-the-city) |
 | [2429-design-a-food-rating-system](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/2429-design-a-food-rating-system) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
@@ -111,4 +114,8 @@
 | ------- |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+## Sliding Window
+|  |
+| ------- |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 <!---LeetCode Topics End-->
