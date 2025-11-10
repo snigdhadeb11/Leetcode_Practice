@@ -10,6 +10,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3678-design-task-manager) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -34,6 +35,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Math
 |  |
 | ------- |
@@ -43,6 +45,7 @@
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Number Theory
 |  |
 | ------- |
@@ -105,6 +108,7 @@
 | ------- |
 | [1612-avoid-flood-in-the-city](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/1612-avoid-flood-in-the-city) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,4 +122,8 @@
 |  |
 | ------- |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 <!---LeetCode Topics End-->
