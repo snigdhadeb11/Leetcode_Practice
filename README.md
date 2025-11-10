@@ -15,6 +15,7 @@
 ## String
 |  |
 | ------- |
+| [1078-remove-outermost-parentheses](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2429-design-a-food-rating-system](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/2429-design-a-food-rating-system) |
@@ -44,6 +45,7 @@
 ## Stack
 |  |
 | ------- |
+| [1078-remove-outermost-parentheses](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/1078-remove-outermost-parentheses) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Number Theory
