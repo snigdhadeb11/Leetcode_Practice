@@ -34,6 +34,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0407-trapping-rain-water-ii](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/0407-trapping-rain-water-ii) |
 | [1612-avoid-flood-in-the-city](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/1612-avoid-flood-in-the-city) |
@@ -150,4 +151,5 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
