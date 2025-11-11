@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/0205-isomorphic-strings) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1612-avoid-flood-in-the-city](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/1612-avoid-flood-in-the-city) |
 | [2429-design-a-food-rating-system](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/2429-design-a-food-rating-system) |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/0205-isomorphic-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
