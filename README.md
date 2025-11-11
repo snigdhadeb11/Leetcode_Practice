@@ -15,6 +15,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/0014-longest-common-prefix) |
 | [1078-remove-outermost-parentheses](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -27,6 +28,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/0014-longest-common-prefix) |
 | [0407-trapping-rain-water-ii](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/0407-trapping-rain-water-ii) |
 | [1612-avoid-flood-in-the-city](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/1612-avoid-flood-in-the-city) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -128,4 +130,8 @@
 |  |
 | ------- |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/snigdhadeb11/Leetcode_Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
